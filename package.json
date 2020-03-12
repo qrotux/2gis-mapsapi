@@ -1,5 +1,5 @@
 {
-  "name": "2gis-maps",
+  "name": "@qrotux/2gis-maps",
   "version": "3.5.15",
   "description": "Interactive 2GIS maps API, based on Leaflet",
   "license": "SEE LICENSE IN FILE",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:2gis/mapsapi.git"
+    "url": "git@github.com:qrotux/2gis-mapsapi.git"
   },
   "main": "dist/js/script.full.js",
   "dependencies": {
     "dustjs-helpers": "1.7.3",
     "dustjs-linkedin": "2.7.5",
     "html5shiv": "^3.7.3",
-    "leaflet": "git://github.com/Leaflet/Leaflet.git#v1.0.1",
+    "leaflet": "1.0.1",
     "express": "^4.13.4",
     "cors": "^2.7.1",
     "lodash": "^4.8.2"
